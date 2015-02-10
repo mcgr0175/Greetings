@@ -8,16 +8,17 @@ This text might contain a deliberate mistake. If you can find it please correct 
 
 Please categorise some foods:
 
+
 GOOD FOODS
 Lasagna
 Icecream
 
- Lasagna 
 
 
 Pizza
 Tortillas
 Chicken
+
 BAD FOODS
 Tomatoes
 Mushrooms
